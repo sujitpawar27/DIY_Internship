@@ -1,0 +1,36 @@
+node_modules/
+.env
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+coverage/
+logs/
+*.log
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Production files
+package-lock.json
+yarn.lock
+
+# Ignore database files
+*.sqlite3
+*.db
+
+# Misc
+.npmrc
+.eslintcache
